@@ -3,8 +3,9 @@
 - 📫 peisylon@foxmail.com
 
 ## Welcome, You are my ![Visitor Count](https://profile-counter.glitch.me/Sylon001/count.svg) visitor, Thank You!🎉🎉
-
-![github统计](https://stats.justsong.cn/api/github?username=Sylon001&theme=dark&lang=zh-CN)
+<!---
+![github统计](https://stats.justsong.cn/api/github?username=Sylon001&theme=dark&lang=en)
+--->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sylon001&layout=compact&theme=tokyonight)
 
