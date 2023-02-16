@@ -5,7 +5,7 @@
 
 ## [NVS365 Camera](https://github.com/Sylon001/NVS-365-Camera/)
 
-## [Contec_japan](https://github.com/Sylon001/contec_japan/)
+## [Contec_Japan](https://github.com/Sylon001/contec_japan/)
 
 ## [All-Defense-Tool](https://github.com/Sylon001/All-Defense-Tool)
 
