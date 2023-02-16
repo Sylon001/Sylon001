@@ -10,7 +10,6 @@
 
 ![github统计](https://stats.justsong.cn/api/github?username=Sylon001&theme=dark&lang=zh-CN)
 
-<script>alert(/1/)</script>
 
 ## [NVS365 Camera](https://github.com/Sylon001/NVS-365-Camera/)
 ![GitHub仓库信息卡片](https://github-stats.ubrong.com/api/pin/?username=Sylon001&repo=NVS-365-Camera&theme=dark)
