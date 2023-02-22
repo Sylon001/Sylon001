@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sylon 😄
-- 📝 [博客园--Sylon:2021年后暂停更新:点击跳转](https://sylon.cnblogs.com/)
+- 📝 [博客园--Sylon:2021年后某种原因不怎么更新:点击跳转](https://sylon.cnblogs.com/)
 - 📫 peisylon@foxmail.com
 
 ## Welcome, You are my ![Visitor Count](https://profile-counter.glitch.me/Sylon001/count.svg) visitor, Thank You!🎉🎉
