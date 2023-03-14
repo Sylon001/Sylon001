@@ -32,7 +32,7 @@
 ## Welcome, You are my ![Visitor Count](https://profile-counter.glitch.me/Sylon001/count.svg) visitor, Thank You!🎉🎉
 
   
-## [NVS365 Camera CVE-2022-47070/27071](https://github.com/Sylon001/NVS-365-Camera/)
+## [NVS365 Camera CVE-2022-47070/47071](https://github.com/Sylon001/NVS-365-Camera/)
 
 ## [Contec_SolarView](https://github.com/Sylon001/Contec_SolarView/)
 
