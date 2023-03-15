@@ -32,13 +32,13 @@
 ## Welcome, You are my ![Visitor Count](https://profile-counter.glitch.me/Sylon001/count.svg) visitor, Thank You!🎉🎉
 
   
-## [NVS365 Camera CVE-2022-47070/47071](https://github.com/Sylon001/NVS-365-Camera/)
+## [NVS365 Camera CVE-2022-47070/CVE-2022-47071](https://github.com/Sylon001/NVS-365-Camera/)
 
-## [Contec_SolarView](https://github.com/Sylon001/Contec_SolarView/)
-
-## [Contec_Japan](https://github.com/Sylon001/contec_japan/)
+## [Contec_Japan  CVE-2023-27389/CVE-2023-27917](https://github.com/Sylon001/contec_japan/)
 
 ## [Contec_Menu](https://github.com/Sylon001/Contec_Menu/)
+
+## [Contec_SolarView](https://github.com/Sylon001/Contec_SolarView/)
 
 <!---
 ## [NVS365 Camera CVE-2022-47070/CVE-2022-47071](https://github.com/Sylon001/NVS-365-Camera/) ![GitHub仓库信息卡片](https://github-stats.ubrong.com/api/pin/?username=Sylon001&repo=NVS-365-Camera&theme=dark)
