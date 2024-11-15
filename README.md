@@ -2,7 +2,7 @@
 - 👋 Hi, I’m Sylon 😄
 - 📫 peisylon@foxmail.com
 - ⚡ [我的博客园](https://sylon.cnblogs.com)
-- 💻 [t00](https://t00.ls/Sylon)
+- 💻 [t00s](https://t00.ls/Sylon)
 - [![GitHub RcoIl](https://img.shields.io/github/followers/Sylon001?label=follower%20github&style=flat-square)](https://github.com/Sylon001)
 
 
